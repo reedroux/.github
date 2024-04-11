@@ -9,6 +9,7 @@ Hey! We're Reedroux.biz  and have been developing integrations on Discord since 
 - [`TicketBot`](https://uivarmelo.xyz) is a Discord TicketBot
 - [`Audiomack`](https://discord.com/oauth2/authorize?client_id=1068643962782502962&permissions=8&scope=bot) Audiomack is a Music bot for (SoundClound, Spotify, and more)
 - [`ramsybot`](https://ramsybot.xyz) Hub for ramsybot's Open Source Code
+- [`GiveawayBot`](https://github.com/Giveaway-Development) Discord GiveawayBot 
 
 
 
